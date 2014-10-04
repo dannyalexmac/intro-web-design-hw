@@ -1,0 +1,65 @@
+body {
+	font-family: Helvetica ;
+	background-color: teal;
+	color: purple;
+	text-align: center;
+	font-size: x-large;
+	border-left: thick;
+	cursor: crosshair;
+	font: helvetica;
+	opacity: 0.8;
+	border-radius: 2px;
+}
+figure {
+	background-color: gray;
+	outline-color: blue;
+	border-color: green;
+	text-align: right;
+	opacity: 0.8;
+	border-style: dashed;
+}
+iframe {
+	vertical-align: top;
+	color: green;
+	width: 100px;
+	white-space: pre;
+}
+p {
+	background-color: green;
+	font-size: xx-large;
+	word-spacing: 5px;
+	border: 5px solid purple;
+}
+table {
+	color: silver;
+	border: 3px solid teal;
+	vertical-align: center;
+}
+h3 {
+	color: yellow;
+	border: 2px;
+	border-color: orange;
+}
+h1 {
+	background-color: black;
+    color: white;
+    text-shadow: 5px 5px 5px #FF0000;
+}
+tr {
+	outline: double;
+}
+th {
+	outline: double;
+}
+br {
+	color: silver;
+}
+form {
+	background-color: black;
+	color: white;
+}
+h2 {
+	border-color: white
+	text-shadow: 2px 2px 2px white;
+}
+

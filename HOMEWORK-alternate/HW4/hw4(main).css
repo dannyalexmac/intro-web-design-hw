@@ -1,0 +1,64 @@
+body {
+	background-color: black;
+	color: white;
+	text-align: center;
+	font-size: small;
+	border-left: thin;
+	cursor: crosshair;
+	font: helvetica;
+	border-radius: 1.5px;
+}
+figure {
+	background-color: black;
+	outline-color: white;
+	border-color: white;
+	text-align: center;
+	border-style: solid;
+}
+iframe {
+	vertical-align: top;
+	color: white;
+	width: 500px;
+}
+p {
+	background-color: black;
+	font-size: medium;
+	border: 15px white;
+}
+table {
+	text-decoration: line-through;
+	color: white;
+	border: 3px white;
+	vertical-align: center;
+}
+h3 {
+	color: white;
+	border: 2px;
+	border-color: white;
+}
+h1 {
+	background-color: black;
+    color: white;
+    text-shadow: 5px 5px 5px #FF0000;
+}
+tr {
+	outline: solid;
+}
+th {
+	outline: solid;
+}
+br {
+	color: white;
+}
+form {
+	background-color: black;
+	color: white;
+}
+h2 {
+	border-color: white;
+	text-shadow: 2px 2px 2px white;
+}
+ul {
+	text-align: center;
+	vertical-align: center;
+}
