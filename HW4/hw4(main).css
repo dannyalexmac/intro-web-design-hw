@@ -7,7 +7,6 @@ body {
 	border-left: thick;
 	cursor: crosshair;
 	font: helvetica;
-	opacity: 0.8;
 	border-radius: 2px;
 }
 figure {
@@ -15,7 +14,6 @@ figure {
 	outline-color: white;
 	border-color: white;
 	text-align: center;
-	opacity: 0.8;
 	border-style: double;
 }
 iframe {
@@ -43,7 +41,7 @@ h3 {
 h1 {
 	background-color: black;
     color: white;
-    text-shadow: 5px 5px 5px #FF0000;
+    text-shadow: 2px 2px 2px #FF0000;
 }
 tr {
 	outline: double;
