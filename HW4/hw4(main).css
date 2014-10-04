@@ -1,7 +1,7 @@
 body {
 	font-family: Helvetica ;
 	background-color: black;
-	color: purple;
+	color: white;
 	text-align: center;
 	font-size: x-large;
 	border-left: thick;
@@ -16,7 +16,7 @@ figure {
 	border-color: white;
 	text-align: center;
 	opacity: 0.8;
-	border-style: dashed;
+	border-style: double;
 }
 iframe {
 	vertical-align: top;
@@ -25,10 +25,10 @@ iframe {
 	white-space: pre;
 }
 p {
-	background-color: green;
-	font-size: xx-large;
+	background-color: black;
+	font-size: large;
 	word-spacing: 5px;
-	border: 5px solid purple;
+	border: 5px solid white;
 }
 table {
 	color: silver;
