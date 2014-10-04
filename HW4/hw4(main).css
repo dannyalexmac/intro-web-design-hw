@@ -1,0 +1,65 @@
+body {
+	font-family: Helvetica ;
+	background-color: black;
+	color: purple;
+	text-align: center;
+	font-size: x-large;
+	border-left: thick;
+	cursor: crosshair;
+	font: helvetica;
+	opacity: 0.8;
+	border-radius: 2px;
+}
+figure {
+	background-color: black;
+	outline-color: white;
+	border-color: white;
+	text-align: center;
+	opacity: 0.8;
+	border-style: dashed;
+}
+iframe {
+	vertical-align: top;
+	color: white;
+	width: 100px;
+	white-space: pre;
+}
+p {
+	background-color: green;
+	font-size: xx-large;
+	word-spacing: 5px;
+	border: 5px solid purple;
+}
+table {
+	color: silver;
+	border: 3px white;
+	vertical-align: center;
+}
+h3 {
+	color: white;
+	border: 2px;
+	border-color: white;
+}
+h1 {
+	background-color: black;
+    color: white;
+    text-shadow: 5px 5px 5px #FF0000;
+}
+tr {
+	outline: double;
+}
+th {
+	outline: double;
+}
+br {
+	color: white;
+}
+form {
+	background-color: black;
+	color: white;
+}
+h2 {
+	border-color: white;
+	text-shadow: 2px 2px 2px white;
+}
+
