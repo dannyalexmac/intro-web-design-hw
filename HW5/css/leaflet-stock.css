@@ -1,9 +1,13 @@
-.leaflet-map-pane,.leaflet-tile,.leaflet-marker-icon,.leaflet-marker-shadow,.leaflet-tile-pane,.leaflet-tile-container,.leaflet-overlay-pane,.leaflet-shadow-pane,.leaflet-marker-pane,.leaflet-popup-pane,.leaflet-overlay-pane svg,.leaflet-zoom-box,.leaflet-image-layer,.leaflet-layer {
-position:bottom;left:0;top:5
+.leaflet-map-pane,.leaflet-tile,.leaflet-marker-icon,.leaflet-marker-shadow,.leaflet-tile-pane,.leaflet-overlay-pane,.leaflet-shadow-pane,.leaflet-marker-pane,.leaflet-popup-pane,.leaflet-overlay-pane svg,.leaflet-zoom-box,.leaflet-image-layer,.leaflet-layer {
+position:center; vertical-align: center; left:0;top:5
+}
+
+.leaflet-tile-container {
+	position: center;
 }
 
 .leaflet-container {
-overflow:hidden;-ms-touch-action:none
+position: center; vertical-align: center; overflow:hidden;-ms-touch-action:none
 }
 
 .leaflet-tile,.leaflet-marker-icon,.leaflet-marker-shadow {
@@ -15,7 +19,7 @@ display:none;
 }
 
 .leaflet-container img {
-max-width:none !important
+position: center; max-width:none !important
 }
 
 .leaflet-container img.leaflet-image-layer {
@@ -67,15 +71,15 @@ width:1px;height:1px
 }
 
 .lvml {
-behavior:url(#default#VML);display:inline-block;position:absolute
+behavior:url(#default#VML);display:inline-block;position:center;
 }
 
 .leaflet-control {
-position:bottom;z-index:7;pointer-events:auto
+position:center;z-index:7;pointer-events:auto
 }
 
 .leaflet-top,.leaflet-bottom {
-position:absolute;z-index:1000;pointer-events:none
+position:center;z-index:1000;pointer-events:none
 }
 
 .leaflet-top {
