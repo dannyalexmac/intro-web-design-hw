@@ -1,0 +1,19 @@
+River Macdonald
+Needs Assessment: Tufts Public Journal
+Contact: Kara Cochran
+ 
+1) The Tufts Public Journal is a bit of  an underground operation. Many Tufts students see the finished product each year, but there are only a limited number of copies printed, so if students forget to pick one up then they’re out of luck in terms of viewing the publication. The premise of the publication is similar to PostSecret- where students write in anonymously with secrets, concerns, and confessions to a number of forms. All of the confessions are submitted online, but the publication currently has an online presence mostly limited to its Facebook page. A website would help to archive past issues of the Journal and to help a wider audience gain access to the content each semester.
+ 
+2) The purpose of the website is to create an online archive for the Public Journal, so that physical copies of the publication are not the only way to view past years. Basically, increased access for an increasing readership if the aim. The client also requested that a logo be made for use on the website, in order to better establish the Public Journal as a brand and to help root it more among the larger and more well known campus publications.
+
+3) The website should archive all past issues of the Public Journal, some of which can be found scattered online and some of which are saved on personal computers. Hopefully, the website will provide a coherent and comprehensive look at the Public Journals of the past and of present staff, news, and works.
+
+4) The website is targeted at Tufts students and the Tufts community at large. It will also serve as a reference point for other schools that have similar publications, ideally. A large portion of the users of the website will be directed there via social media when there are no physical copies of the Public Journal left on campus for distribution.
+
+5) The website will be considered successful if it contains all of the information about Public Journals past and present that is available, and if people can go to the website for contact information, updated staff lists, and easy to navigate archives.
+
+6) The only other attempt at a site was by a past leader of the Public Journal using Wordpress, but this has not been updated, is poorly designed, and does not contain all of the past issues.
+
+7) The client has never worked with a web designer before, but has worked with graphic designers on the publication in the past, so the publication already has a highly developed aesthetic that should show through in the website as well. The aesthetic has loosely been defined as very homemade, hodgepodge, intimate, playful, and absurd.
+
+8) Sample content includes past issues of the publication, which can be found scattered online and on personal computers (so some of the material can be immediately accessed and some will need to be found, which could take more than a week, but not more than two weeks or so).
