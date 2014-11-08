@@ -23,6 +23,12 @@ body {
 	float: top; 
 	margin: 0; 
 	padding: 0;
+	moz-column-count: 3;
+	moz-column-gap: 2px;
+	webkit-column-count: 3;
+	webkit-column-gap: 2px;
+	column-count: 3;
+	column-gap: 2px;
 	}
 p { 
 	font: helvetica thin;
